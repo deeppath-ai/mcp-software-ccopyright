@@ -43,7 +43,7 @@
 ## <div align="center">▶️Quick Start</div>
 
 
-## 安装方法
+## 部署指南
 
 ### 方法一：从PyPI安装
 
@@ -70,16 +70,14 @@ uv pip install mcp-software-ccopyright
 }
 ~~~
 
-## MCP 示例：
+## 使用示例
 
 ```
-
 帮忙生成软著相关材料，
 - type=企业
 - project_name=mcp评估大师
 - code_path=/Users/admin/Documents/deeppathai/
-- output_dir=/Users/admin/Documents/deeppathai/mcp-software-ccopyright/test6
-
+- output_dir=/Users/admin/Documents/test8
 ```
 
 ## <div align="center">💭Murmurs</div>
